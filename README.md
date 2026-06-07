@@ -1,5 +1,9 @@
 # Exam Dashboard
 
+## Dashboard Preview
+
+![Dashboard](IMG_1.png)
+
 ## Overview
 
 This project is a dashboard for analyzing mock exam data.
